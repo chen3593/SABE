@@ -1,0 +1,452 @@
+[
+{
+    "student": {
+      "firstName": "spring2014",
+      "lastName": "s",
+      "userId": "s2014",
+      "role":"STUDENT"
+    },
+    "semesterAdmitted": {
+      "term": "SPRING",
+      "year": 2014
+    },
+    "isMinnesotaResident": true,
+    "isInternationalStudent": false,
+    "isInsuredOutsideOfUMN": false,
+    "degreeEnrolledIn": {
+      "program": "MASTER",
+      "major": "NEUROLOGY",
+      "college": "MEDICAL"
+    },
+    "registeredCourses": [],
+    "adjustments": [],
+    "notes": [
+      "Medical Student"
+    ]
+  },
+
+{
+    "student": {
+      "firstName": "pob",
+      "lastName": "push",
+      "userId": "pp125",
+      "role":"STUDENT"
+    },
+    "semesterAdmitted": {
+      "term": "SPRING",
+      "year": 2014
+    },
+    "isMinnesotaResident": false,
+    "isInternationalStudent": true,
+    "isInsuredOutsideOfUMN": false,
+    "degreeEnrolledIn": {
+      "program": "MASTER",
+      "major": "NEUROLOGY",
+      "college": "MEDICAL"
+    },
+    "registeredCourses": [],
+    "adjustments": [],
+    "notes": [
+      "Medical Student"
+    ]
+  },
+{
+    "student": {
+      "firstName": "ool",
+      "lastName": "o",
+      "userId": "ooo125",
+      "role":"STUDENT"
+    },
+    "semesterAdmitted": {
+      "term": "SPRING",
+      "year": 2015
+    },
+    "isMinnesotaResident": false,
+    "isInternationalStudent": true,
+    "isInsuredOutsideOfUMN": false,
+    "degreeEnrolledIn": {
+      "program": "MASTER",
+      "major": "NEUROLOGY",
+      "college": "MEDICAL"
+    },
+    "registeredCourses": [],
+    "adjustments": [],
+    "notes": [
+      "Medical Student"
+    ]
+  },
+  {
+    "student": {
+      "firstName": "apple",
+      "lastName": "ann",
+      "userId": "aaa125",
+      "role":"STUDENT"
+    },
+    "semesterAdmitted": {
+      "term": "FALL",
+      "year": 2015
+    },
+    "isMinnesotaResident": true,
+    "isInternationalStudent": false,
+    "isInsuredOutsideOfUMN": false,
+    "degreeEnrolledIn": {
+      "program": "MASTER",
+      "major": "NEUROLOGY",
+      "college": "MEDICAL"
+    },
+    "registeredCourses": [],
+    "adjustments": [],
+    "notes": [
+      "Medical Student"
+    ]
+  }
+,
+  {
+    "student": {
+      "firstName": "app",
+      "lastName": "a",
+      "userId": "aaa124",
+      "role":"STUDENT"
+    },
+    "semesterAdmitted": {
+      "term": "FALL",
+      "year": 2015
+    },
+    "isMinnesotaResident": false,
+    "isInternationalStudent": true,
+    "isInsuredOutsideOfUMN": false,
+    "degreeEnrolledIn": {
+      "program": "MASTER",
+      "major": "NEUROLOGY",
+      "college": "MEDICAL"
+    },
+    "registeredCourses": [],
+    "adjustments": [],
+    "notes": [
+      "Medical Student"
+    ]
+  },
+{
+    "student": {
+      "firstName": "apple",
+      "lastName": "a",
+      "userId": "aaa123",
+      "role":"STUDENT"
+    },
+    "semesterAdmitted": {
+      "term": "FALL",
+      "year": 2014
+    },
+    "isMinnesotaResident": false,
+    "isInternationalStudent": true,
+    "isInsuredOutsideOfUMN": false,
+    "degreeEnrolledIn": {
+      "program": "MASTER",
+      "major": "NEUROLOGY",
+      "college": "MEDICAL"
+    },
+    "registeredCourses": [],
+    "adjustments": [],
+    "notes": [
+      "Medical Student"
+    ]
+  },
+ {
+    "student": {
+      "firstName": "bob",
+      "lastName": "b",
+      "userId": "bb123",
+      "role":"STUDENT"
+    },
+    "semesterAdmitted": {
+      "term": "FALL",
+      "year": 2013
+    },
+    "isMinnesotaResident": false,
+    "isInternationalStudent": true,
+    "isInsuredOutsideOfUMN": false,
+    "degreeEnrolledIn": {
+      "program": "MASTER",
+      "major": "NEUROLOGY",
+      "college": "MEDICAL"
+    },
+    "registeredCourses": [],
+    "adjustments": [],
+    "notes": [
+      "Medical Student"
+    ]
+  },
+ {
+    "student": {
+      "firstName": "charli",
+      "lastName": "c",
+      "userId": "cc123",
+      "role":"STUDENT"
+    },
+    "semesterAdmitted": {
+      "term": "FALL",
+      "year": 2012
+    },
+    "isMinnesotaResident": false,
+    "isInternationalStudent": true,
+    "isInsuredOutsideOfUMN": false,
+    "degreeEnrolledIn": {
+      "program": "MASTER",
+      "major": "NEUROLOGY",
+      "college": "MEDICAL"
+    },
+    "registeredCourses": [],
+    "adjustments": [],
+    "notes": [
+      "Medical Student"
+    ]
+  },
+ {
+    "student": {
+      "firstName": "dog",
+      "lastName": "d",
+      "userId": "dd123",
+      "role":"STUDENT"
+    },
+    "semesterAdmitted": {
+      "term": "FALL",
+      "year": 2011
+    },
+    "isMinnesotaResident": false,
+    "isInternationalStudent": true,
+    "isInsuredOutsideOfUMN": false,
+    "degreeEnrolledIn": {
+      "program": "MASTER",
+      "major": "NEUROLOGY",
+      "college": "MEDICAL"
+    },
+    "registeredCourses": [],
+    "adjustments": [],
+    "notes": [
+      "Medical Student"
+    ]
+  },
+  {
+    "student": {
+      "firstName": "eva",
+      "lastName": "e",
+      "userId": "eee123",
+      "role":"STUDENT"
+    },
+    "semesterAdmitted": {
+      "term": "FALL",
+      "year": 2010
+    },
+    "isMinnesotaResident": false,
+    "isInternationalStudent": true,
+    "isInsuredOutsideOfUMN": false,
+    "degreeEnrolledIn": {
+      "program": "MASTER",
+      "major": "NEUROLOGY",
+      "college": "MEDICAL"
+    },
+    "registeredCourses": [],
+    "adjustments": [],
+    "notes": [
+      "Medical Student"
+    ]
+  }, {
+    "student": {
+      "firstName": "fog",
+      "lastName": "fue",
+      "userId": "fff123",
+      "role":"STUDENT"
+    },
+    "semesterAdmitted": {
+      "term": "FALL",
+      "year": 2009
+    },
+    "isMinnesotaResident": false,
+    "isInternationalStudent": true,
+    "isInsuredOutsideOfUMN": false,
+    "degreeEnrolledIn": {
+      "program": "MASTER",
+      "major": "NEUROLOGY",
+      "college": "MEDICAL"
+    },
+    "registeredCourses": [],
+    "adjustments": [],
+    "notes": [
+      "Medical Student"
+    ]
+  }, {
+    "student": {
+      "firstName": "ginger",
+      "lastName": "g",
+      "userId": "ggg123",
+      "role":"STUDENT"
+    },
+    "semesterAdmitted": {
+      "term": "FALL",
+      "year": 2014
+    },
+    "isMinnesotaResident": true,
+    "isInternationalStudent": false,
+    "isInsuredOutsideOfUMN": false,
+    "degreeEnrolledIn": {
+      "program": "MASTER",
+      "major": "NEUROLOGY",
+      "college": "MEDICAL"
+    },
+    "registeredCourses": [],
+    "adjustments": [],
+    "notes": [
+      "Medical Student"
+    ]
+  },
+ {
+    "student": {
+      "firstName": "hora",
+      "lastName": "h",
+      "userId": "hhh123",
+      "role":"STUDENT"
+    },
+    "semesterAdmitted": {
+      "term": "FALL",
+      "year": 2013
+    },
+    "isMinnesotaResident": true,
+    "isInternationalStudent": false,
+    "isInsuredOutsideOfUMN": false,
+    "degreeEnrolledIn": {
+      "program": "MASTER",
+      "major": "NEUROLOGY",
+      "college": "MEDICAL"
+    },
+    "registeredCourses": [],
+    "adjustments": [],
+    "notes": [
+      "Medical Student"
+    ]
+  },
+ {
+    "student": {
+      "firstName": "ice",
+      "lastName": "i",
+      "userId": "iii123",
+      "role":"STUDENT"
+    },
+    "semesterAdmitted": {
+      "term": "FALL",
+      "year": 2012
+    },
+    "isMinnesotaResident": true,
+    "isInternationalStudent": false,
+    "isInsuredOutsideOfUMN": false,
+    "degreeEnrolledIn": {
+      "program": "MASTER",
+      "major": "NEUROLOGY",
+      "college": "MEDICAL"
+    },
+    "registeredCourses": [],
+    "adjustments": [],
+    "notes": [
+      "Medical Student"
+    ]
+  },
+ {
+    "student": {
+      "firstName": "jack",
+      "lastName": "j",
+      "userId": "jjj123",
+      "role":"STUDENT"
+    },
+    "semesterAdmitted": {
+      "term": "FALL",
+      "year": 2011
+    },
+    "isMinnesotaResident": true,
+    "isInternationalStudent": false,
+    "isInsuredOutsideOfUMN": false,
+    "degreeEnrolledIn": {
+      "program": "MASTER",
+      "major": "NEUROLOGY",
+      "college": "MEDICAL"
+    },
+    "registeredCourses": [],
+    "adjustments": [],
+    "notes": [
+      "Medical Student"
+    ]
+  },
+ {
+    "student": {
+      "firstName": "kurb",
+      "lastName": "k",
+      "userId": "kkk123",
+      "role":"STUDENT"
+    },
+    "semesterAdmitted": {
+      "term": "FALL",
+      "year": 2010
+    },
+    "isMinnesotaResident": true,
+    "isInternationalStudent": false,
+    "isInsuredOutsideOfUMN": false,
+    "degreeEnrolledIn": {
+      "program": "MASTER",
+      "major": "NEUROLOGY",
+      "college": "MEDICAL"
+    },
+    "registeredCourses": [],
+    "adjustments": [],
+    "notes": [
+      "Medical Student"
+    ]
+  },
+ {
+    "student": {
+      "firstName": "large",
+      "lastName": "l",
+      "userId": "lll123",
+      "role":"STUDENT"
+    },
+    "semesterAdmitted": {
+      "term": "FALL",
+      "year": 2009
+    },
+    "isMinnesotaResident": true,
+    "isInternationalStudent": false,
+    "isInsuredOutsideOfUMN": false,
+    "degreeEnrolledIn": {
+      "program": "MASTER",
+      "major": "NEUROLOGY",
+      "college": "MEDICAL"
+    },
+    "registeredCourses": [],
+    "adjustments": [],
+    "notes": [
+      "Medical Student"
+    ]
+  },
+  {
+    "student": {
+      "firstName": "mike",
+      "lastName": "m",
+      "userId": "mmm123",
+      "role":"STUDENT"
+    },
+    "semesterAdmitted": {
+      "term": "SPRING",
+      "year": 2014
+    },
+    "isMinnesotaResident": true,
+    "isInternationalStudent": false,
+    "isInsuredOutsideOfUMN": false,
+    "degreeEnrolledIn": {
+      "program": "MASTER",
+      "major": "NEUROLOGY",
+      "college": "MEDICAL"
+    },
+    "registeredCourses": [],
+    "adjustments": [],
+    "notes": [
+      "Medical Student"
+    ]
+  }
+]

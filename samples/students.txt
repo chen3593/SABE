@@ -1,0 +1,702 @@
+[
+ {
+    "student": {
+      "firstName": "Mile",
+      "lastName": "Mason",
+      "userId": "smith003",
+      "role":"STUDENT"
+    },
+    "semesterAdmitted": {
+      "term": "SPRING",
+      "year": 2013
+    },
+    "isMinnesotaResident": true,
+    "isInternationalStudent": false,
+    "isInsuredOutsideOfUMN": false,
+    "degreeEnrolledIn": {
+      "program": "BACHELOR",
+      "major": "ELECTRICAL_ENGINEERING",
+      "college": "SCIENCE_AND_ENGINEERING"
+    },
+    "registeredCourses": [
+      
+      {
+        "major": "ELECTRICAL_ENGINEERING",
+        "level": 2002,
+        "name": "Introductory Circuits and Electronics Laboratory",
+        "credits": 1,
+        "isODLCourse":false
+      },
+      {
+        "major": "ELECTRICAL_ENGINEERING",
+        "level": 2011,
+        "name": "Linear Systems, Circuits, and Electronics",
+        "credits": 3,
+        "isODLCourse":false
+      } 
+    ],
+    "adjustments": [
+      {
+        "name": "Waiver",
+        "amountPerSemester": -2000,
+        "category": "WAIVER"
+      }
+    ],
+    "notes": [
+      "Undergrad EE Student"
+    ]
+  },
+  {
+    "student": {
+      "firstName": "Sameera",
+      "lastName": "Shah",
+      "userId": "shahx118",
+      "role":"STUDENT"
+    },
+    "semesterAdmitted": {
+      "term": "FALL",
+      "year": 2013
+    },
+    "isMinnesotaResident": false,
+    "isInternationalStudent": true,
+    "isInsuredOutsideOfUMN": true,
+    "degreeEnrolledIn": {
+      "program": "MASTER",
+      "major": "COMPUTER_SCIENCE",
+      "college": "SCIENCE_AND_ENGINEERING"
+    },
+    "registeredCourses": [
+      {
+        "major": "COMPUTER_SCIENCE",
+        "level": 5801,
+        "name": "Software Engineering",
+        "credits": 3,
+        "isODLCourse":false
+      },
+      {
+        "major": "COMPUTER_SCIENCE",
+        "level": 5707,
+        "name": "Principles of Database Systems",
+        "credits": 3,
+        "isODLCourse":false
+      },
+      {
+        "major": "COMPUTER_SCIENCE",
+        "level": 8801,
+        "name": "Advanced Software Engineering",
+        "credits": 3,
+        "isODLCourse":false
+      }
+    ],
+    "adjustments": [
+      {
+        "name": "Teaching Assistant",
+        "amountPerSemester": -7000,
+        "category": "OTHER"
+      },
+      {
+        "name": "U Card Replacement",
+        "amountPerSemester": 25,
+        "category": "WAIVER"
+      },
+      {
+        "name": "Stop Payment Fee",
+        "amountPerSemester": 10,
+        "category": "WAIVER"
+      },
+      {
+        "name": "Insurance Waiver",
+        "amountPerSemester": -1049,
+        "category": "WAIVER"
+      }
+    ],
+    "notes": [
+      "MSCS Student",
+      "Added Insurance Waiver and Tuition Waiver"
+    ]
+  },
+  {
+    "student": {
+      "firstName": "Phd",
+      "lastName": "Guy",
+      "userId": "phdg1234",
+      "role":"STUDENT"
+    },
+    "semesterAdmitted": {
+      "term": "FALL",
+      "year": 2014
+    },
+    "isMinnesotaResident": false,
+    "isInternationalStudent": true,
+    "isInsuredOutsideOfUMN": true,
+    "degreeEnrolledIn": {
+      "program": "PHD",
+      "major": "COMPUTER_SCIENCE",
+      "college": "SCIENCE_AND_ENGINEERING"
+    },
+    "registeredCourses": [
+      {
+        "major": "COMPUTER_SCIENCE",
+        "level": 5801,
+        "name": "Software Engineering",
+        "credits": 3,
+        "isODLCourse":false
+      },
+      {
+        "major": "COMPUTER_SCIENCE",
+        "level": 5707,
+        "name": "Principles of Database Systems",
+        "credits": 3,
+        "isODLCourse":false
+      },
+      {
+        "major": "COMPUTER_SCIENCE",
+        "level": 8801,
+        "name": "Advanced Software Engineering",
+        "credits": 3,
+        "isODLCourse":false
+      }
+    ],
+    "adjustments": [
+      {
+        "name": "Teaching Assistant",
+        "amountPerSemester": -7000,
+        "category": "OTHER"
+      },
+      {
+        "name": "Insurance Waiver",
+        "amountPerSemester": -1049,
+        "category": "WAIVER"
+      }
+    ],
+    "notes": [
+      "MSCS Student",
+      "Added Insurance Waiver and Tuition Waiver"
+    ]
+  },
+  {
+    "student": {
+      "firstName": "Sofware",
+      "lastName": "Guy",
+      "userId": "sogu1234",
+      "role":"STUDENT"
+    },
+    "semesterAdmitted": {
+      "term": "FALL",
+      "year": 2011
+    },
+    "isMinnesotaResident": false,
+    "isInternationalStudent": true,
+    "isInsuredOutsideOfUMN": true,
+    "degreeEnrolledIn": {
+      "program": "MASTER",
+      "major": "SOFTWARE_ENGINEERING",
+      "college": "SCIENCE_AND_ENGINEERING"
+    },
+    "registeredCourses": [
+      {
+        "major": "COMPUTER_SCIENCE",
+        "level": 5801,
+        "name": "Software Engineering",
+        "credits": 3,
+        "isODLCourse":false
+      },
+      {
+        "major": "COMPUTER_SCIENCE",
+        "level": 5707,
+        "name": "Principles of Database Systems",
+        "credits": 3,
+        "isODLCourse":false
+      },
+      {
+        "major": "COMPUTER_SCIENCE",
+        "level": 8801,
+        "name": "Advanced Software Engineering",
+        "credits": 3,
+        "isODLCourse":false
+      }
+    ],
+    "adjustments": [
+      
+    ],
+    "notes": [
+      "MSCS Student",
+    ]
+  },
+ {
+    "student": {
+      "firstName": "John",
+      "lastName": "Weissman",
+      "userId": "john3273",
+      "role":"STUDENT"
+    },
+    "semesterAdmitted": {
+      "term": "FALL",
+      "year": 2013
+    },
+    "isMinnesotaResident": false,
+    "isInternationalStudent": true,
+    "isInsuredOutsideOfUMN": true,
+    "degreeEnrolledIn": {
+      "program": "MASTER",
+      "major": "MANAGEMENT_TECHNOLOGY",
+      "college": "SCIENCE_AND_ENGINEERING"
+    },
+    "registeredCourses": [
+      {
+        "major": "COMPUTER_SCIENCE",
+        "level": 5801,
+        "name": "Software Engineering",
+        "credits": 3,
+        "isODLCourse":true
+      }
+    ],
+    "adjustments": [
+      {
+        "name": "Teaching Assistant",
+        "amountPerSemester": -7000,
+        "category": "OTHER"
+      },
+      {
+        "name": "Insurance Waiver",
+        "amountPerSemester": -1049,
+        "category": "WAIVER"
+      }
+    ],
+    "notes": [
+      "MSCS Student",
+      "Added Insurance Waiver and Tuition Waiver"
+    ]
+  },
+{
+    "student": {
+      "firstName": "Management",
+      "lastName": "Tech",
+      "userId": "mate1234",
+      "role":"STUDENT"
+    },
+    "semesterAdmitted": {
+      "term": "FALL",
+      "year": 2013
+    },
+    "isMinnesotaResident": false,
+    "isInternationalStudent": true,
+    "isInsuredOutsideOfUMN": true,
+    "degreeEnrolledIn": {
+      "program": "MASTER",
+      "major": "MANAGEMENT_TECHNOLOGY",
+      "college": "SCIENCE_AND_ENGINEERING"
+    },
+    "registeredCourses": [
+      {
+        "major": "COMPUTER_SCIENCE",
+        "level": 5801,
+        "name": "Software Engineering",
+        "credits": 3,
+        "isODLCourse":false
+      }
+    ],
+    "adjustments": [
+      {
+        "name": "Insurance Waiver",
+        "amountPerSemester": -1049,
+        "category": "WAIVER"
+      }
+    ],
+    "notes": [
+      "MSCS Student",
+      "Added Insurance Waiver and Tuition Waiver"
+    ]
+  },
+  {
+    "student": {
+      "firstName": "Jason",
+      "lastName": "Biatek",
+      "userId": "biate001",
+      "role":"STUDENT"
+    },
+    "semesterAdmitted": {
+      "term": "SPRING",
+      "year": 2013
+    },
+    "isMinnesotaResident": true,
+    "isInternationalStudent": false,
+    "isInsuredOutsideOfUMN": false,
+    "degreeEnrolledIn": {
+      "program": "MASTER",
+      "major": "SOFTWARE_ENGINEERING",
+      "college": "SCIENCE_AND_ENGINEERING"
+    },
+    "registeredCourses": [
+      {
+        "major": "SOFTWARE_ENGINEERING",
+        "level": 5801,
+        "name": "Software Engineering I: Overview, Requirements, and Modeling",
+        "credits": 3,
+        "isODLCourse":false
+      },
+      {
+        "major": "SOFTWARE_ENGINEERING",
+        "level": 5861,
+        "name": "Introduction to Software Architecture",
+        "credits": 3,
+        "isODLCourse":false
+      },
+      {
+        "major": "SOFTWARE_ENGINEERING",
+        "level": 5851,
+        "name": "Software Project Management",
+        "credits": 3,
+        "isODLCourse":false
+      }
+    ],
+    "adjustments": [],
+    "notes": [
+      "MSSE Student",
+      "No adjustments"
+    ]
+  },
+  {
+    "student": {
+      "firstName": "Smith",
+      "lastName": "Mason",
+      "userId": "smith001",
+      "role":"STUDENT"
+    },
+    "semesterAdmitted": {
+      "term": "SPRING",
+      "year": 2013
+    },
+    "isMinnesotaResident": true,
+    "isInternationalStudent": false,
+    "isInsuredOutsideOfUMN": false,
+    "degreeEnrolledIn": {
+      "program": "BACHELOR",
+      "major": "ELECTRICAL_ENGINEERING",
+      "college": "SCIENCE_AND_ENGINEERING"
+    },
+    "registeredCourses": [
+      {
+        "major": "ELECTRICAL_ENGINEERING",
+        "level": 2001,
+        "name": "Introduction to Circuits and Electronics",
+        "credits": 3,
+        "isODLCourse":false
+      },
+      {
+        "major": "ELECTRICAL_ENGINEERING",
+        "level": 2002,
+        "name": "Introductory Circuits and Electronics Laboratory",
+        "credits": 1,
+        "isODLCourse":false
+      },
+      {
+        "major": "ELECTRICAL_ENGINEERING",
+        "level": 2011,
+        "name": "Linear Systems, Circuits, and Electronics",
+        "credits": 3,
+        "isODLCourse":false
+      },
+      {
+        "major": "ELECTRICAL_ENGINEERING",
+        "level": 2301,
+        "name": "Introduction to Digital System Design",
+        "credits": 4,
+        "isODLCourse":false
+      },
+      {
+        "major": "ELECTRICAL_ENGINEERING",
+        "level": 2361,
+        "name": "Introduction to Microcontrollers",
+        "credits": 4,
+        "isODLCourse":false
+      }
+    ],
+    "adjustments": [
+      {
+        "name": "Waiver",
+        "amountPerSemester": -2000,
+        "category": "WAIVER"
+      }
+    ],
+    "notes": [
+      "Undergrad EE Student"
+    ]
+  },
+  {
+    "student": {
+      "firstName": "Mn",
+      "lastName": "Part",
+      "userId": "mnpa1234",
+      "role":"STUDENT"
+    },
+    "semesterAdmitted": {
+      "term": "SPRING",
+      "year": 2013
+    },
+    "isMinnesotaResident": true,
+    "isInternationalStudent": false,
+    "isInsuredOutsideOfUMN": false,
+    "degreeEnrolledIn": {
+      "program": "BACHELOR",
+      "major": "ELECTRICAL_ENGINEERING",
+      "college": "SCIENCE_AND_ENGINEERING"
+    },
+    "registeredCourses": [
+      {
+        "major": "ELECTRICAL_ENGINEERING",
+        "level": 2301,
+        "name": "Introduction to Digital System Design",
+        "credits": 4,
+        "isODLCourse":false
+      },
+      {
+        "major": "ELECTRICAL_ENGINEERING",
+        "level": 2361,
+        "name": "Introduction to Microcontrollers",
+        "credits": 4,
+        "isODLCourse":false
+      }
+    ],
+    "adjustments": [
+      {
+        "name": "Waiver",
+        "amountPerSemester": -2000,
+        "category": "WAIVER"
+      }
+    ],
+    "notes": [
+      "Undergrad EE Student"
+    ]
+  },
+  {
+    "student": {
+      "firstName": "Mn",
+      "lastName": "Full",
+      "userId": "mnfu1234",
+      "role":"STUDENT"
+    },
+    "semesterAdmitted": {
+      "term": "SPRING",
+      "year": 2013
+    },
+    "isMinnesotaResident": true,
+    "isInternationalStudent": false,
+    "isInsuredOutsideOfUMN": false,
+    "degreeEnrolledIn": {
+      "program": "BACHELOR",
+      "major": "ELECTRICAL_ENGINEERING",
+      "college": "SCIENCE_AND_ENGINEERING"
+    },
+    "registeredCourses": [
+      {
+        "major": "ELECTRICAL_ENGINEERING",
+        "level": 2001,
+        "name": "Introduction to Circuits and Electronics",
+        "credits": 3,
+        "isODLCourse":false
+      },
+      {
+        "major": "ELECTRICAL_ENGINEERING",
+        "level": 2002,
+        "name": "Introductory Circuits and Electronics Laboratory",
+        "credits": 1,
+        "isODLCourse":false
+      },
+      {
+        "major": "ELECTRICAL_ENGINEERING",
+        "level": 2011,
+        "name": "Linear Systems, Circuits, and Electronics",
+        "credits": 3,
+        "isODLCourse":false
+      },
+      {
+        "major": "ELECTRICAL_ENGINEERING",
+        "level": 2301,
+        "name": "Introduction to Digital System Design",
+        "credits": 4,
+        "isODLCourse":false
+      },
+      {
+        "major": "ELECTRICAL_ENGINEERING",
+        "level": 2361,
+        "name": "Introduction to Microcontrollers",
+        "credits": 4,
+        "isODLCourse":false
+      }
+    ],
+    "adjustments": [
+      {
+        "name": "Waiver",
+        "amountPerSemester": -2000,
+        "category": "WAIVER"
+      }
+    ],
+    "notes": [
+      "Undergrad EE Student"
+    ]
+  },
+  {
+    "student": {
+      "firstName": "Intl",
+      "lastName": "Part",
+      "userId": "inpa1234",
+      "role":"STUDENT"
+    },
+    "semesterAdmitted": {
+      "term": "SPRING",
+      "year": 2013
+    },
+    "isMinnesotaResident": false,
+    "isInternationalStudent": true,
+    "isInsuredOutsideOfUMN": false,
+    "degreeEnrolledIn": {
+      "program": "BACHELOR",
+      "major": "ELECTRICAL_ENGINEERING",
+      "college": "SCIENCE_AND_ENGINEERING"
+    },
+    "registeredCourses": [
+      {
+        "major": "ELECTRICAL_ENGINEERING",
+        "level": 2301,
+        "name": "Introduction to Digital System Design",
+        "credits": 4,
+        "isODLCourse":false
+      },
+      {
+        "major": "ELECTRICAL_ENGINEERING",
+        "level": 2361,
+        "name": "Introduction to Microcontrollers",
+        "credits": 4,
+        "isODLCourse":false
+      }
+    ],
+    "adjustments": [
+      {
+        "name": "Waiver",
+        "amountPerSemester": -2000,
+        "category": "WAIVER"
+      }
+    ],
+    "notes": [
+      "Undergrad EE Student"
+    ]
+  },
+  {
+    "student": {
+      "firstName": "Intl",
+      "lastName": "Full",
+      "userId": "infu1234",
+      "role":"STUDENT"
+    },
+    "semesterAdmitted": {
+      "term": "SPRING",
+      "year": 2013
+    },
+    "isMinnesotaResident": false,
+    "isInternationalStudent": true,
+    "isInsuredOutsideOfUMN": false,
+    "degreeEnrolledIn": {
+      "program": "BACHELOR",
+      "major": "ELECTRICAL_ENGINEERING",
+      "college": "SCIENCE_AND_ENGINEERING"
+    },
+    "registeredCourses": [
+      {
+        "major": "ELECTRICAL_ENGINEERING",
+        "level": 2001,
+        "name": "Introduction to Circuits and Electronics",
+        "credits": 3,
+        "isODLCourse":false
+      },
+      {
+        "major": "ELECTRICAL_ENGINEERING",
+        "level": 2002,
+        "name": "Introductory Circuits and Electronics Laboratory",
+        "credits": 1,
+        "isODLCourse":false
+      },
+      {
+        "major": "ELECTRICAL_ENGINEERING",
+        "level": 2011,
+        "name": "Linear Systems, Circuits, and Electronics",
+        "credits": 3,
+        "isODLCourse":false
+      },
+      {
+        "major": "ELECTRICAL_ENGINEERING",
+        "level": 2301,
+        "name": "Introduction to Digital System Design",
+        "credits": 4,
+        "isODLCourse":false
+      },
+      {
+        "major": "ELECTRICAL_ENGINEERING",
+        "level": 2361,
+        "name": "Introduction to Microcontrollers",
+        "credits": 4,
+        "isODLCourse":false
+      }
+    ],
+    "adjustments": [
+      {
+        "name": "Waiver",
+        "amountPerSemester": -2000,
+        "category": "WAIVER"
+      }
+    ],
+    "notes": [
+      "Undergrad EE Student"
+    ]
+  },
+  {
+    "student": {
+      "firstName": "John",
+      "lastName": "May",
+      "userId": "john234",
+      "role":"STUDENT"
+    },
+    "semesterAdmitted": {
+      "term": "FALL",
+      "year": 2011
+    },
+    "isMinnesotaResident": false,
+    "isInternationalStudent": true,
+    "isInsuredOutsideOfUMN": false,
+    "degreeEnrolledIn": {
+      "program": "MASTER",
+      "major": "NEUROLOGY",
+      "college": "MEDICAL"
+    },
+    "registeredCourses": [],
+    "adjustments": [],
+    "notes": [
+      "Medical Student"
+    ]
+  },
+  {
+    "student": {
+      "firstName": "Eric",
+      "lastName": "Wang",
+      "userId": "Wang1234",
+      "role":"STUDENT"
+    },
+    "semesterAdmitted": {
+      "term": "FALL",
+      "year": 2011
+    },
+    "isMinnesotaResident": false,
+    "isInternationalStudent": true,
+    "isInsuredOutsideOfUMN": false,
+    "degreeEnrolledIn": {
+      "program": "BACHELOR",
+      "major": "NEUROLOGY",
+      "college": "MEDICAL"
+    },
+    "registeredCourses": [],
+    "adjustments": [],
+    "notes": [
+      "Medical Student"
+    ]
+  }
+]

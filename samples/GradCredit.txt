@@ -1,0 +1,378 @@
+[
+  {
+    "student": {
+      "firstName": "Financial",
+      "lastName": "Guy",
+      "userId": "fngy123",
+      "role":"STUDENT"
+    },
+    "semesterAdmitted": {
+      "term": "FALL",
+      "year": 2013
+    },
+    "isMinnesotaResident": true,
+    "isInternationalStudent": true,
+    "isInsuredOutsideOfUMN": true,
+    "degreeEnrolledIn": {
+      "program": "MASTER",
+      "major": "FINANCIAL_MATHEMATICS",
+      "college": "SCIENCE_AND_ENGINEERING"
+    },
+    "registeredCourses": [
+      {
+        "major": "COMPUTER_SCIENCE",
+        "level": 5801,
+        "name": "Software Engineering",
+        "credits": 3,
+        "isODLCourse":false
+      },
+      {
+        "major": "COMPUTER_SCIENCE",
+        "level": 5707,
+        "name": "Principles of Database Systems",
+        "credits": 3,
+        "isODLCourse":false
+      },
+      {
+        "major": "COMPUTER_SCIENCE",
+        "level": 8801,
+        "name": "Advanced Software Engineering",
+        "credits": 3,
+        "isODLCourse":false
+      }
+    ],
+    "adjustments": [
+      {
+        "name": "Teaching Assistant",
+        "amountPerSemester": -7000,
+        "category": "OTHER"
+      },
+      {
+        "name": "Insurance Waiver",
+        "amountPerSemester": -1049,
+        "category": "WAIVER"
+      }
+    ],
+    "notes": [
+      "MSCS Student",
+      "Added Insurance Waiver and Tuition Waiver"
+    ]
+  },
+  {
+    "student": {
+      "firstName": "FinEarly",
+      "lastName": "Guy",
+      "userId": "fner1234",
+      "role":"STUDENT"
+    },
+    "semesterAdmitted": {
+      "term": "FALL",
+      "year": 2011
+    },
+    "isMinnesotaResident": false,
+    "isInternationalStudent": true,
+    "isInsuredOutsideOfUMN": true,
+    "degreeEnrolledIn": {
+      "program": "MASTER",
+      "major": "FINANCIAL_MATHEMATICS",
+      "college": "SCIENCE_AND_ENGINEERING"
+    },
+    "registeredCourses": [
+      {
+        "major": "COMPUTER_SCIENCE",
+        "level": 5801,
+        "name": "Software Engineering",
+        "credits": 3,
+        "isODLCourse":false
+      },
+      {
+        "major": "COMPUTER_SCIENCE",
+        "level": 5707,
+        "name": "Principles of Database Systems",
+        "credits": 3,
+        "isODLCourse":false
+      },
+      {
+        "major": "COMPUTER_SCIENCE",
+        "level": 8801,
+        "name": "Advanced Software Engineering",
+        "credits": 3,
+        "isODLCourse":false
+      }
+    ],
+    "adjustments": [
+      {
+        "name": "Teaching Assistant",
+        "amountPerSemester": -7000,
+        "category": "OTHER"
+      },
+      {
+        "name": "Insurance Waiver",
+        "amountPerSemester": -1049,
+        "category": "WAIVER"
+      }
+    ],
+    "notes": [
+      "MSCS Student",
+      "Added Insurance Waiver and Tuition Waiver"
+    ]
+  },
+  {
+    "student": {
+      "firstName": "FinLate",
+      "lastName": "Guy",
+      "userId": "fnla1234",
+      "role":"STUDENT"
+    },
+    "semesterAdmitted": {
+      "term": "FALL",
+      "year": 2014
+    },
+    "isMinnesotaResident": false,
+    "isInternationalStudent": true,
+    "isInsuredOutsideOfUMN": true,
+    "degreeEnrolledIn": {
+      "program": "MASTER",
+      "major": "FINANCIAL_MATHEMATICS",
+      "college": "SCIENCE_AND_ENGINEERING"
+    },
+    "registeredCourses": [
+      {
+        "major": "COMPUTER_SCIENCE",
+        "level": 5801,
+        "name": "Software Engineering",
+        "credits": 3,
+        "isODLCourse":false
+      },
+      {
+        "major": "COMPUTER_SCIENCE",
+        "level": 5707,
+        "name": "Principles of Database Systems",
+        "credits": 3,
+        "isODLCourse":false
+      },
+      {
+        "major": "COMPUTER_SCIENCE",
+        "level": 8801,
+        "name": "Advanced Software Engineering",
+        "credits": 3,
+        "isODLCourse":false
+      }
+    ],
+    "adjustments": [
+      {
+        "name": "Teaching Assistant",
+        "amountPerSemester": -7000,
+        "category": "OTHER"
+      },
+      {
+        "name": "Insurance Waiver",
+        "amountPerSemester": -1049,
+        "category": "WAIVER"
+      }
+    ],
+    "notes": [
+      "MSCS Student",
+      "Added Insurance Waiver and Tuition Waiver"
+    ]
+  },
+  {
+    "student": {
+      "firstName": "Management",
+      "lastName": "Guy",
+      "userId": "magu1234",
+      "role":"STUDENT"
+    },
+    "semesterAdmitted": {
+      "term": "FALL",
+      "year": 2011
+    },
+    "isMinnesotaResident": false,
+    "isInternationalStudent": true,
+    "isInsuredOutsideOfUMN": true,
+    "degreeEnrolledIn": {
+      "program": "MASTER",
+      "major": "MANAGEMENT_TECHNOLOGY",
+      "college": "SCIENCE_AND_ENGINEERING"
+    },
+    "registeredCourses": [
+      {
+        "major": "COMPUTER_SCIENCE",
+        "level": 5801,
+        "name": "Software Engineering",
+        "credits": 3,
+        "isODLCourse":false
+      },
+      {
+        "major": "COMPUTER_SCIENCE",
+        "level": 5707,
+        "name": "Principles of Database Systems",
+        "credits": 3,
+        "isODLCourse":false
+      },
+      {
+        "major": "COMPUTER_SCIENCE",
+        "level": 8801,
+        "name": "Advanced Software Engineering",
+        "credits": 3,
+        "isODLCourse":false
+      }
+    ],
+    "adjustments": [
+      {
+        "name": "Teaching Assistant",
+        "amountPerSemester": -7000,
+        "category": "OTHER"
+      },
+      {
+        "name": "Insurance Waiver",
+        "amountPerSemester": -1049,
+        "category": "WAIVER"
+      }
+    ],
+    "notes": [
+      "MSCS Student",
+      "Added Insurance Waiver and Tuition Waiver"
+    ]
+  },
+  {
+    "student": {
+      "firstName": "Security",
+      "lastName": "Guy",
+      "userId": "scry123",
+      "role":"STUDENT"
+    },
+    "semesterAdmitted": {
+      "term": "SPRING",
+      "year": 2013
+    },
+    "isMinnesotaResident": true,
+    "isInternationalStudent": false,
+    "isInsuredOutsideOfUMN": false,
+    "degreeEnrolledIn": {
+      "program": "MASTER",
+      "major": "SECURITY_TECHNOLOGY",
+      "college": "SCIENCE_AND_ENGINEERING"
+    },
+    "registeredCourses": [
+      {
+        "major": "SOFTWARE_ENGINEERING",
+        "level": 5801,
+        "name": "Software Engineering I: Overview, Requirements, and Modeling",
+        "credits": 3,
+        "isODLCourse":false
+      },
+      {
+        "major": "SOFTWARE_ENGINEERING",
+        "level": 5861,
+        "name": "Introduction to Software Architecture",
+        "credits": 3,
+        "isODLCourse":false
+      },
+      {
+        "major": "SOFTWARE_ENGINEERING",
+        "level": 5851,
+        "name": "Software Project Management",
+        "credits": 3,
+        "isODLCourse":false
+      }
+    ],
+    "adjustments": [],
+    "notes": [
+      "MSSE Student",
+      "No adjustments"
+    ]
+  },
+  {
+    "student": {
+      "firstName": "Device",
+      "lastName": "Mason",
+      "userId": "dema1234",
+      "role":"STUDENT"
+    },
+    "semesterAdmitted": {
+      "term": "SPRING",
+      "year": 2013
+    },
+    "isMinnesotaResident": true,
+    "isInternationalStudent": false,
+    "isInsuredOutsideOfUMN": false,
+    "degreeEnrolledIn": {
+      "program": "MASTER",
+      "major": "MEDICAL_DEVICE_INNOVATION",
+      "college": "SCIENCE_AND_ENGINEERING"
+    },
+    "registeredCourses": [
+      {
+        "major": "ELECTRICAL_ENGINEERING",
+        "level": 2001,
+        "name": "Introduction to Circuits and Electronics",
+        "credits": 3,
+        "isODLCourse":false
+      },
+      {
+        "major": "ELECTRICAL_ENGINEERING",
+        "level": 2002,
+        "name": "Introductory Circuits and Electronics Laboratory",
+        "credits": 1,
+        "isODLCourse":false
+      },
+      {
+        "major": "ELECTRICAL_ENGINEERING",
+        "level": 2011,
+        "name": "Linear Systems, Circuits, and Electronics",
+        "credits": 3,
+        "isODLCourse":false
+      },
+      {
+        "major": "ELECTRICAL_ENGINEERING",
+        "level": 2301,
+        "name": "Introduction to Digital System Design",
+        "credits": 4,
+        "isODLCourse":false
+      },
+      {
+        "major": "ELECTRICAL_ENGINEERING",
+        "level": 2361,
+        "name": "Introduction to Microcontrollers",
+        "credits": 4,
+        "isODLCourse":false
+      }
+    ],
+    "adjustments": [
+      {
+        "name": "Waiver",
+        "amountPerSemester": -2000,
+        "category": "WAIVER"
+      }
+    ],
+    "notes": [
+      "Undergrad EE Student"
+    ]
+  },
+  {
+    "student": {
+      "firstName": "John",
+      "lastName": "May",
+      "userId": "john234",
+      "role":"STUDENT"
+    },
+    "semesterAdmitted": {
+      "term": "FALL",
+      "year": 2011
+    },
+    "isMinnesotaResident": false,
+    "isInternationalStudent": true,
+    "isInsuredOutsideOfUMN": false,
+    "degreeEnrolledIn": {
+      "program": "MASTER",
+      "major": "",
+      "college": "MEDICAL"
+    },
+    "registeredCourses": [],
+    "adjustments": [],
+    "notes": [
+      "Medical Student"
+    ]
+  }
+]

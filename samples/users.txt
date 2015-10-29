@@ -1,0 +1,32 @@
+[
+    {
+        "userId": "shahx118",
+        "firstName": "Sameera",
+        "lastName": "Shah",
+        "role": "STUDENT"
+    },
+    {
+        "userId": "biate001",
+        "firstName": "Jason",
+        "lastName": "Biatek",
+        "role": "STUDENT"
+    },
+    {
+        "userId": "gayx0067",
+        "firstName": "Gregory",
+        "lastName": "Gay",
+        "role": "ADMINISTRATOR"
+    },
+    {
+        "userId": "smith001",
+        "firstName": "John",
+        "lastName": "Smith",
+        "role": "ADMINISTRATOR"
+    },
+    {
+        "userId": "john3273",
+        "firstName": "John",
+        "lastName": "Weissman",
+        "role": "STUDENT"
+    }
+]
